@@ -41,7 +41,7 @@
     "select"
   ],
   "dependencies": {
-    "ember-cli-babel": "^5.1.3"
+    "ember-cli-babel": "^6.0.0"
   },
   "ember-addon": {
     "demoURL": "https://thefrontside.github.io/emberx-select",
